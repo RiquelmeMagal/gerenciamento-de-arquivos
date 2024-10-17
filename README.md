@@ -38,7 +38,7 @@ Projeto desenvolvido para a disciplina de **Sistemas Operacionais 2024.2** na UF
    Ativar:
    ```bash
    source venv/bin/activate  # Para Linux/macOS  
-   venv\Scripts\activate     # Para Windows 
+   venv\Scripts\Activate.ps1     # Para Windows 
    ```
    Instalando as dependências
    ```bash
