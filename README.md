@@ -44,11 +44,7 @@ Projeto desenvolvido para a disciplina de **Sistemas Operacionais 2024.2** na UF
    ```bash
    pip install -r requirements.txt  
    ```
-3. **Navegue até a pasta src:**
-   ```bash
-   cd src
-   ```
-4. **Execute a simulação:**
+3. **Execute a simulação:**
    ```bash
    python3 main.py
    ```
